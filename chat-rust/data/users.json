@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1771646885079817000-82aa",
+    "username": "jay",
+    "password_hash": "6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090",
+    "created_at": "2026-02-21T04:08:05.080032Z"
+  },
+  {
+    "id": "1771646931054332000-3a82",
+    "username": "bob",
+    "password_hash": "8f40d1b0740d7aa1f3c0fbc93ca78bbf162eb9df22fd17e35e89e73c34f71811",
+    "created_at": "2026-02-21T04:08:51.054361Z"
+  }
+]

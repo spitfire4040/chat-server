@@ -1,0 +1,11 @@
+/Users/jaythom/Desktop/client-server-rust/target/release/deps/socket2-86fa7fec569eac14.d: /Users/jaythom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.2/src/lib.rs /Users/jaythom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.2/src/sockaddr.rs /Users/jaythom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.2/src/socket.rs /Users/jaythom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.2/src/sockref.rs /Users/jaythom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.2/src/sys/unix.rs
+
+/Users/jaythom/Desktop/client-server-rust/target/release/deps/libsocket2-86fa7fec569eac14.rlib: /Users/jaythom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.2/src/lib.rs /Users/jaythom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.2/src/sockaddr.rs /Users/jaythom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.2/src/socket.rs /Users/jaythom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.2/src/sockref.rs /Users/jaythom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.2/src/sys/unix.rs
+
+/Users/jaythom/Desktop/client-server-rust/target/release/deps/libsocket2-86fa7fec569eac14.rmeta: /Users/jaythom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.2/src/lib.rs /Users/jaythom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.2/src/sockaddr.rs /Users/jaythom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.2/src/socket.rs /Users/jaythom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.2/src/sockref.rs /Users/jaythom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.2/src/sys/unix.rs
+
+/Users/jaythom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.2/src/lib.rs:
+/Users/jaythom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.2/src/sockaddr.rs:
+/Users/jaythom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.2/src/socket.rs:
+/Users/jaythom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.2/src/sockref.rs:
+/Users/jaythom/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.6.2/src/sys/unix.rs:
